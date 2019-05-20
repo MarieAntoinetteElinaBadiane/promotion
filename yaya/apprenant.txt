@@ -1,0 +1,6 @@
+Maman Ndiaye,10,ASTA,Ababacar,01-01-1997,ababacarasta@gmail.com,781736826,accepter
+Djibi Niang,20,BADIANE,Elina,21-11-1995,badianeelina8@gmail.com,777422779,exclure
+Maman Ndiaye,50,BITEYE,Bassirou,04-05-1994,bassbiteye45@gmail.com,771523139,present
+Raymond Badiane,60,CAMARA,Aboubacar,08-05-1995,babacamara91@gmail.com,778584822,inscrire
+Djibi Niang,26,GAYE,Cheikh,28-06-1997,diopgaye8045@gmail.com,773658401,abandont
+,,,,,,,
